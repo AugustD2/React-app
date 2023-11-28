@@ -1,0 +1,75 @@
+.card {
+    height: 470px;
+    width: 250px;
+    /* max-width: 100%;
+    max-height: 100%; */
+
+    margin: auto;
+    background-image: linear-gradient(#E48F45, #994D1C);
+    border-radius: 5px;
+    box-shadow: 10px 10px 3px rgb(63, 62, 62);
+
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-family: cursive;
+}
+
+.inputText input {
+    margin-top: 5px;
+    border: 2px solid;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 10px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.inputText button {
+
+    font-family: cursive;
+    font-size: medium;
+    font-weight: bold;
+    padding: auto;
+    margin-left: 40%;
+    margin-top: 5px;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: #F5CCA0;
+}
+
+.dataDisplay {
+    font-family: cursive;
+    font-size: medium;
+    font-weight: bold;
+    padding: auto;
+    margin-left: 5px;
+    color: black;
+    display: flex;
+}
+
+.activityDone {
+    display: flex;
+}
+
+.activityDone button {
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
+    font-family: cursive;
+    font-size: medium;
+    padding: auto;
+    margin-left: 5px;
+    border: 2px solid #F5CCA0;
+    border-radius: 5px;
+    background-color: #F5CCA0;
+
+
+}
+
+.btn1 {
+
+    margin-left: 30%;
+}
